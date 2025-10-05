@@ -21,14 +21,19 @@ body {
 #generate-btn {
     color: inherit;
     text-shadow: 0 0 2px black;
-    background-color: #4ADF86;
+    background-color: #10B981;
     border: 0;
     border-radius: 4px;
     padding: 8px 16px;
     width: auto;
     margin: 10px 0px;
     font-size: medium;
+    border: 1px solid #6EE7B7;
 
+}
+
+#generate-btn:hover {
+    background-color: #34D399;
 }
 
 input {
