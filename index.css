@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    border: 2px dotted blue;
+    background-color: #1F2937;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    border: 2px dotted white;
+}
+
+
+#green-headline {
+    color: #4ADF86;
+}
+
+#generate-btn {
+    color: inherit;
+    text-shadow: 0 0 2px black;
+    background-color: #4ADF86;
+    border: 0;
+    border-radius: 4px;
+    padding: 8px 16px;
+    width: auto;
+    margin: 10px 0px;
+    font-size: medium;
+
+}
+
+input {
+    margin: 10px auto 5px;
+    background-color: #233042;
+    text-align: center;
+    color: #4ADF86;
+    border: 0;
+    border-radius: 4px;
+    padding: 8px 16px;
+    font-size: medium;
+    
+}
+
+p {
+    font-size: 11px;
+    color: grey;
+}
+
+.copyable.copied {
+
+  background: #3e5a81;           /* pale green bg */
+  transition: outline-color .15s ease, background-color .15s ease;
+}
+
+
+
+
+
