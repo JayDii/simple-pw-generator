@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    border: 2px dotted blue;
+    /* border: 2px dotted blue; */
     background-color: #1F2937;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: white;
@@ -9,7 +9,7 @@ body {
 .main {
     display: flex;
     justify-content: center;
-    border: 2px dotted white;
+    /* border: 2px dotted white; */
 }
 
 
